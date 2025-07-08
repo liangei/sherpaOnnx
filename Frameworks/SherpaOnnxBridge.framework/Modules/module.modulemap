@@ -1,0 +1,6 @@
+framework module SherpaOnnxBridge {
+  umbrella header "SherpaOnnxBridge.h"
+  export *
+
+  module * { export * }
+}
